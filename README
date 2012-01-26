@@ -1,0 +1,8 @@
+BlueWebPro
+
+A really simple Bash script to search Apache log files for known attack
+patterns and then block the IP number of the potential attacker.
+I wrote this script as a simple proof-of-concept for a company many years ago.
+
+Jack-Benny Persson
+
